@@ -1,0 +1,5 @@
+#Redirects to handle netlify client side 
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
